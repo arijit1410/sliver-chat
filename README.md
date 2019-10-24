@@ -1,5 +1,5 @@
 # sliver-chat
-A simple chat application written in Java
+A simple chat application written in Java using sockets.
 
 [Video](https://www.youtube.com/watch?v=evIF2T0B4Jg)
 
